@@ -10,8 +10,6 @@ body {
     background: #000814;
     font-family: 'Montserrat', sans-serif;
     min-height: 100%;
-    display:inline-block;
-    overflow-x: hidden
 }
 h1 {
     font-weight: 400;
