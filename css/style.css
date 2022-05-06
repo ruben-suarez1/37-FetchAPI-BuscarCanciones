@@ -10,6 +10,8 @@ body {
     background: #000814;
     font-family: 'Montserrat', sans-serif;
     min-height: 100%;
+    display:inline-block;
+    overflow-x: hidden
 }
 h1 {
     font-weight: 400;
@@ -21,7 +23,7 @@ h2 {
 
 .contenido {
     background-color: white;
-    max-width: 80%;
+    max-width: 90%;
     margin:  2rem auto;
     height: 100%;
     padding: 20px;
