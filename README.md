@@ -1,5 +1,8 @@
 # 37-FetchAPI-BuscarCanciones
 
+api para buscar letras de canciones.
+Es un buscador de canciones, pero busca la letra, no busca la canción.
+
 * Html.
 * Css.
 * Mobile First.
